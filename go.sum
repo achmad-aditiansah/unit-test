@@ -1,7 +1,7 @@
-github.com/achmad-aditiansah/latihan v1.0.0 h1:lHY6wG0FUM+LLyA9XLKiPgOW+LT/WD8+LtHRA6laT8w=
-github.com/achmad-aditiansah/latihan v1.0.0/go.mod h1:PJEKNb+WiRXTgjigAyEcHpLirOXEEKsRchWJOnvkTkE=
 github.com/achmad-aditiansah/latihan v1.0.1 h1:oB7DB+0rwpT1MdjFAW9eBNE00Y4Bw8ZIj/anTNm/W98=
 github.com/achmad-aditiansah/latihan v1.0.1/go.mod h1:PJEKNb+WiRXTgjigAyEcHpLirOXEEKsRchWJOnvkTkE=
+github.com/achmad-aditiansah/latihan v1.0.2 h1:bMSaj1+enolpYGmI6ksxpeqnRW4U05g+AfTZmtG1C6o=
+github.com/achmad-aditiansah/latihan v1.0.2/go.mod h1:PJEKNb+WiRXTgjigAyEcHpLirOXEEKsRchWJOnvkTkE=
 github.com/achmad-aditiansah/slice-printer v1.0.3 h1:KmlwCUCneP91jUFlnWSm3NcWfpy2iyg0EwF+urVFF+A=
 github.com/achmad-aditiansah/slice-printer v1.0.3/go.mod h1:rNTEPwO1N4iQgMw9TgMPZJvrfaCZDbtMzVWTfvIr4TA=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

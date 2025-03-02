@@ -3,7 +3,7 @@ module github.com/achmad-aditiansah/unit-test.git
 go 1.24.0
 
 require (
-	github.com/achmad-aditiansah/latihan v1.0.1
+	github.com/achmad-aditiansah/latihan v1.0.2
 	github.com/stretchr/testify v1.10.0
 )
 
